@@ -133,11 +133,11 @@ def calcular_risco_ciclo(resultados):
 
 
 def classificar_ciclo(pontuacao):
-    # """Classifica o ciclo com base na pontuação total de risco.
+    # Classifica o ciclo com base na pontuação total de risco.
     # 0-2  → MISSÃO ESTÁVEL
     # 3-5  → MISSÃO EM ATENÇÃO
     # 6-10 → MISSÃO CRÍTICA
-    # """
+    
     if pontuacao <= 2:
         return "MISSÃO ESTÁVEL"
     elif pontuacao <= 5:
