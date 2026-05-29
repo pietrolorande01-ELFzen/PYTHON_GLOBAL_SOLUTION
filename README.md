@@ -4,9 +4,9 @@
 
 # INTEGRANTES DO PROJETO 
 
-Pietro Lorande | RM569125
-Gustavo Bonamico Piccoli | RM 569984
-Maria Eduarda Medeiros Lemos | RM 574094
+*Pietro Lorande | RM569125
+*Gustavo Bonamico Piccoli | RM 569984
+*Maria Eduarda Medeiros Lemos | RM 574094
 
 ---
 
